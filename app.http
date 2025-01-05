@@ -1,0 +1,3 @@
+send request
+GET http://localhost:3000/users/user_id/posts
+
